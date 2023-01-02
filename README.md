@@ -1,6 +1,6 @@
-Project URL : https://my-openai-api-project-new.vercel.app/  
+# An AI created using OpenAI API and Express which can answer any question you ask  
 
-**An AI created using OpenAI API and Express which can answer any question you ask**  
+Project URL : https://my-openai-api-project-new.vercel.app/  
 
 This is an AI which can answer any type of question created using OpenAI API and openai npm package   
 Technologies used - openAI API , React , Vite , Express , openai npm package , cors , render.com , vercel  
